@@ -9,6 +9,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=ceddyie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ceddyie&theme=dark&hide_border=false)
 
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ceddyie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
